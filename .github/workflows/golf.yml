@@ -1,0 +1,8 @@
+name: Code-Golf
+on: [pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      # TODO: check diffs so that new code must be shorter than existing!

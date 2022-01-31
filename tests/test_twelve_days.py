@@ -1,4 +1,4 @@
-import twelve_days_of_christmas
+from code_golf import twelve_days_of_christmas
 
 
 # In the file `twelve_days_of_christmas.py`, create a variable named `song` that is the entire text of the song
