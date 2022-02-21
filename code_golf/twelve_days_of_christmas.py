@@ -6,7 +6,7 @@ g = (
     "eight maids a-milking,",
     "seven swans a-swimming,",
     "six geese a-laying,",
-    "five golden rings,",
+    "five gold rings,",
     "four calling birds,",
     "three French hens,",
     "two turtle-doves,",
